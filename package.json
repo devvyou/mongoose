@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.4"
+  },
+  "name": "mongoose",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "prod": "node app.js"
+  },
+  "keywords": [
+    "nodejs",
+    "mongoose",
+    "mongodb",
+    "expressjs",
+    "mongodbatlas"
+  ],
+  "author": "devvyou",
+  "license": "MIT",
+  "description": "Connecting to mongoose is possible through the 'mongoose' npm package. Check the post on instagram for more detailed informations. @devvyou",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
